@@ -391,27 +391,6 @@ python3 scripts/monitoring-sla.py
 
 ---
 
-## 👥 Auteurs
-
-| Nom | Rôle |
-|-----|------|
-| **Ayoub Lahlaibi** | Infrastructure, Docker, Sécurité, Documentation |
-| **El Mehdi El Khaldi** | Stockage NFS/SAN, Monitoring, Backup |
-
----
-
-## 🎓 Contexte Académique
-
-| Champ | Valeur |
-|-------|--------|
-| **Module** | Technologies de Virtualisation |
-| **Formation** | Master SIT & Big Data |
-| **Établissement** | Faculté des Sciences et Techniques de Tanger |
-| **Université** | Abdelmalek Essaâdi |
-| **Année** | 2025/2026 |
-
----
-
 <div align="center">
 
 *Infrastructure entièrement opérationnelle, reproductible et documentée*
